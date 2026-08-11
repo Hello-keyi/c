@@ -1,2 +1,2 @@
 # c
-mt practice about c
+my practice about c
